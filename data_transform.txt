@@ -1,0 +1,3 @@
+// Data_transforms
+Ejecutar regla_1: Convertir los valores nullos("") en texto ("Null")
+Ejecutar regla 2 : Eliminar duplicidad de registros 
