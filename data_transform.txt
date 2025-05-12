@@ -2,3 +2,4 @@
 Ejecutar regla_1: Convertir los valores nullos(" ") en texto ("Null"0")
 Ejecutar regla 2 : Eliminar duplicidad de registros 
 Ejecutar regla 3 : estandarizar formato de documento de identidad
+Ejecutar regla 4 : Reemplazar fecha de compra de servicio por 2025
